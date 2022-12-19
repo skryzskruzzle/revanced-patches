@@ -161,7 +161,7 @@
         "importPatchesLabel": "Importuj wybrane łatki",
         "importPatchesHint": "Importuj wybrane łatki z pliku JSON",
         "importedPatches": "Zaimportowano wybrane łatki",
-        "resetStoredPatchesLabel": "Resetuj łatki",
+        "resetStoredPatchesLabel": "Zresetuj łatki",
         "resetStoredPatchesHint": "Zresetuj wybrane przechowywane łatki",
         "resetStoredPatches": "Wybrane łatki zostały zresetowane",
         "jsonSelectorErrorMessage": "Nie można użyć wybranego pliku JSON",
